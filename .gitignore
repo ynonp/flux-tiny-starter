@@ -19,3 +19,6 @@ chrome-user-data
 .vscode
 .tern
 .vimprj 
+bundle.js
+bundle.js.map
+.tern-project
